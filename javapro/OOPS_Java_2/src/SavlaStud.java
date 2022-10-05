@@ -8,6 +8,7 @@ class Stud1{
 	{
 		count=100;
 	}
+	
 	public Stud1()
 	{
 		rno= ++count;
