@@ -1,5 +1,5 @@
 /*
-	Assignment 1:Declare 2 nos and perform all oprations
+	Assignment 1:Declare 2 nos and perform all operations
 	Date : 1 Oct
 */
 
